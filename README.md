@@ -6,10 +6,14 @@ A tool to minimize stock quantities while maintaining the desired allocation of 
 - <b>Minimize Stock Quantities:</b> Calculate the lowest possible quantities of stocks.
 - <b>Maintain Allocation:</b> Ensure the portfolio’s desired allocation is preserved.
 
+
+
 ## Usage
 1. Run the main script:
    ```python portfolioReducer.py```;
 2. Follow the on-screen instructions;
+
+![](example.png)
 
 ## To-do
 - [ ] Improve algorithm
